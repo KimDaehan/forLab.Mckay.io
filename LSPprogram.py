@@ -1,7 +1,8 @@
 """
     Traditional LSP game
-    @author Mckay
+    @author Mckay Kim
     @created 12-10-2016
+    @teached by Mr.shin
     
 """
 
