@@ -2,7 +2,7 @@
     Traditional LSP game
     @author Mckay Kim
     @created 12-10-2016
-    @teached by Mr.shin
+    @teached by Mr.Shin
     
 """
 
