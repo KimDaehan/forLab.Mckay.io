@@ -17,11 +17,11 @@ my_hand = int (row_input());
 
 a = my_hand - com_hand
 if a>0 or a==-2:
-        print "U win and I lose"
+        print "U win and I Lose"
 elif a==0:
         print "Draw"
 else:
-    print "U lose and I win"
+    print "U lose and I Win"
 
     
 """
